@@ -4,7 +4,7 @@ I am a person passionate about technology and backend programming, with experien
 
 
 
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jalvarado-2018527" /></p>
+<p align="center"><img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="jalvarado-2018527" /></p>
 
 
 # 💻 Tech Stack:
